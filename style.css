@@ -1,6 +1,22 @@
-.carousel-item {
+.bg-img1,
+.bg-img2,
+.bg-img3 {
   height: 500px;
 }
-.carousel-item img {
-  height: 100%;
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/bg-img-1.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/bg-img-2.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/bg-img-3.jpg);
 }
